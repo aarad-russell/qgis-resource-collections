@@ -1,0 +1,554 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol name="Incident Control" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{d3bf2f12-d4e1-47a2-95a2-145e3462ed1b}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="255,255,255,255,rgb:1,1,1,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{f78b259a-134b-4ae8-a380-8474c4fd3d8f}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="IC" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Intel" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{146a7100-e196-4400-af60-39e46717d8ab}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="48,160,235,255,hsv:0.56711111111111112,0.79487296864270995,0.92228580148012518,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{7d8bb5b7-a487-4f99-93b9-f06426f27f50}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="INT" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Logistics" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{4f45b81a-43d5-4a99-9553-b0388ab25f24}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="251,230,80,255,hsv:0.14658333333333334,0.67971313038834213,0.98431372549019602,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{1854d149-4469-4e01-91c8-aded362d0819}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="LOG" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Operations" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{1fffc891-46a7-42f9-b919-cc3c258c6d68}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="255,181,107,255,hsv:0.083,0.57949187457084006,1,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{0647e5e9-5c66-463f-87c5-8544bcf6a381}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="OPS" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Planning" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{6b4dee1f-e7e9-4413-8647-ec5e6fa6c183}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="251,129,181,255,hsv:0.92908333333333337,0.48717479209582665,0.98431372549019602,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{21ba166b-e7bb-4e2c-b6eb-641fac75033e}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="PLN" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Public Informaiton Management" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{499ce19c-7538-4afc-860f-5d8c2a8a779a}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="251,80,222,255,rgb:0.9843137,0.3152667,0.8725414,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{7c297ad4-bc1b-4430-b57b-8dd5288b5c45}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="PIM" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Safety" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{f8848c64-e25f-4e62-b4ee-5e9fffd2fc76}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="150,223,85,255,hsv:0.25488888888888889,0.62050812542916001,0.87450980392156863,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{5f9c3cc6-83fc-40cf-8285-ce8b4f2345fc}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="SAF" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol name="Welfare" alpha="1" is_animated="0" clip_to_extent="1" type="marker" force_rhr="0" tags="CIMS Roles" frame_rate="10">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option name="name" value="" type="QString"/>
+          <Option name="properties"/>
+          <Option name="type" value="collection" type="QString"/>
+        </Option>
+      </data_defined_properties>
+      <layer id="{9cca95eb-585c-441c-b3ef-42396b77eed7}" locked="0" pass="0" class="SimpleMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="cap_style" value="square" type="QString"/>
+          <Option name="color" value="160,216,235,255,hsv:0.5434444444444444,0.31795223926146332,0.92228580148012518,1" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="name" value="shield" type="QString"/>
+          <Option name="offset" value="0,0" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="outline_style" value="solid" type="QString"/>
+          <Option name="outline_width" value="0.5" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="scale_method" value="diameter" type="QString"/>
+          <Option name="size" value="6" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+      <layer id="{546b6241-7146-4adc-bf64-f9b5cc336d9f}" locked="0" pass="0" class="FontMarker" enabled="1">
+        <Option type="Map">
+          <Option name="angle" value="0" type="QString"/>
+          <Option name="chr" value="WEL" type="QString"/>
+          <Option name="color" value="0,0,0,255,rgb:0,0,0,1" type="QString"/>
+          <Option name="font" value="Liberation Sans" type="QString"/>
+          <Option name="font_style" value="Bold" type="QString"/>
+          <Option name="horizontal_anchor_point" value="1" type="QString"/>
+          <Option name="joinstyle" value="bevel" type="QString"/>
+          <Option name="offset" value="0,-0.30000000000000004" type="QString"/>
+          <Option name="offset_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="offset_unit" value="MM" type="QString"/>
+          <Option name="outline_color" value="35,35,35,255,rgb:0.1372549,0.1372549,0.1372549,1" type="QString"/>
+          <Option name="outline_width" value="0" type="QString"/>
+          <Option name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="outline_width_unit" value="MM" type="QString"/>
+          <Option name="size" value="2.5" type="QString"/>
+          <Option name="size_map_unit_scale" value="3x:0,0,0,0,0,0" type="QString"/>
+          <Option name="size_unit" value="MM" type="QString"/>
+          <Option name="vertical_anchor_point" value="1" type="QString"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
